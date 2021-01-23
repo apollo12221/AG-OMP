@@ -43,7 +43,7 @@ Based on the configuration of your system, you may choose a setting different fr
 $ ./run.sh
 ```
 
-A successful execution based on the above example setting will print the following information:
+A successful execution based on the above example setting prints the following information:
 
 ```
 ...
