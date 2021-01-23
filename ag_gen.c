@@ -1354,7 +1354,7 @@ void generator(AGGenDigitInstance *digitInstance) {
     printf("\n");
     printf(" ############## Attack graph generation begins ############# \n");
     printf("\n");
-    printf(" --->>> Single Threaded Phase .........................\n");
+    printf("--->>> Single Threaded Phase .........................\n");
     //==============step 1: process the root node
     //store the root node in the node array of the attack graph instance
     (*digitInstance).numOfFactbases=1; 
