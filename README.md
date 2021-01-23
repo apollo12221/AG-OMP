@@ -21,7 +21,7 @@ This is a parallel attack graph generator based on C and OpenMP. It takes a netw
 
 ## How to use the code
 
-1. Clone this repo to your system, run `compile.sh`:
+1. Clone this repo to your system, then run `compile.sh`:
 
 ```
 $ ./compile.sh
