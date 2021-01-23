@@ -7,7 +7,7 @@ This is a parallel attack graph generator based on C and OpenMP. It takes a netw
 
 ## System requirement
 
-- 6 GB memory
+- 8 GB memory (to run with large input data)
 - CentOS, Debian and Ubuntu
 - gcc compiler
 
