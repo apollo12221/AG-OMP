@@ -61,4 +61,4 @@ A successful execution based on the above example setting will print the followi
 ## Technical support
 
 - Please read this [paper](https://ieeexplore.ieee.org/abstract/document/8855310) for the design details of our parallel attack graph generator
-- Please contact [me](mingfinkli@gmail.com) if you have further questions
+- Please contact mingfinkli@gmail.com if you have further questions
